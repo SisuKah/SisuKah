@@ -6,7 +6,6 @@ I’m a **20-year-old developer & student from Finland** who loves turning ideas
 
 ## 🌟 About Me  
 
-- 🎓 First-year ICT student at **University of Oulu**  
 - 💻 Earned **€2.5k** from websites I’ve built  
 - 🎮 My Minecraft pack has **1,000+ downloads**  
 - 🎤 Hit **4k+ views** on YouTube doing dubbing  
