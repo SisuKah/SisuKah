@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, I’m Sisu  
 
-<!--
-**SisuKah/SisuKah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **19-year-old developer & student from Finland** who loves turning ideas into products, experimenting with AI, and building projects that actually get used.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 🎓 First-year ICT student at **University of Oulu**  
+- 💻 Earned **€2.5k** from websites I’ve built  
+- 🎮 My Minecraft pack has **1,000+ downloads**  
+- 🎤 Hit **4k+ views** on YouTube doing dubbing  
+- 🌍 Been to **VivaTech, Slush, and TechCrunch Disrupt**  
+- 🚀 Joined **2 Startup Weekends** & **CalHacks Hackathon (San Francisco)**  
+- 🗣️ English at **C1 level**  
+- 💡 Passionate about **entrepreneurship, AI/ML, and creative coding**  
+
+---
+
+## 🛠️ Tech I Use  
+
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend & Tools:** Firebase · Firestore · Stripe API  
+**AI/Automation:** Python · YOLO · Selenium · Raspberry Pi  
+**Creative:** GIMP · Canva · Minecraft modding  
+
+---
+
+## 🚀 Projects  
+
+- 🏢 **Storage Rental Platform** – Next.js + Stripe + interactive SVG floor-plan  
+- 🔒 **Smart Lock Landing Page** – clean, modern product landing  
+- 🧠 **YOLO Projects** – real-time object detection on Raspberry Pi  
+- 🎮 **Minecraft Packs** – CIT textures + Python automation scripts  
+
+---
+
+## 📫 Connect  
+
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/sisu-kahilakoski-0226a1369/)  
+- 📧 **Email:** sisu.kahilakoski@gmail.com  
+
+---
+
+⭐ Always building, learning, and chasing opportunities at the intersection of **tech, startups, and creativity**.  
