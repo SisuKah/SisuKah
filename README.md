@@ -38,7 +38,7 @@ I’m a **20-year-old developer & student from Finland** who loves turning ideas
 ## 📫 Connect  
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/sisu-kahilakoski-0226a1369/)  
-- 📧 [**Email:**](sisu.kahilakoski@gmail.com)  
+- 📧 **Email:** sisu.kahilakoski@gmail.com 
 
 ---
 
