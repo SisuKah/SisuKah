@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Sisu  
 
-I’m a **19-year-old developer & student from Finland** who loves turning ideas into products, experimenting with AI, and building projects that actually get used.  
+I’m a **20-year-old developer & student from Finland** who loves turning ideas into products, experimenting with AI, and building projects that actually get used.  
 
 ---
 
