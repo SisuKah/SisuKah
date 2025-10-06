@@ -7,13 +7,13 @@ I’m a **20-year-old developer & student from Finland** who loves turning ideas
 ## 🌟 About Me  
 
 - 💻 Earned **€2.5k** from websites I’ve built  
-- 🎮 My Minecraft pack has **1,000+ downloads**  
+- 🎮 My gaming application has **1,500+ downloads**  
 - 🎤 Hit **70k+ views** on gaming clips
 - 📚 Read 350+ [**books**](https://mybooks-rho-olive.vercel.app/)
 - 🌍 Been to **VivaTech, Slush, and TechCrunch Disrupt**  
 - 🚀 Joined **2 Startup Weekends** & **CalHacks Hackathon (San Francisco)**  
 - 🗣️ English at **C1 level**  
-- 💡 Passionate about **entrepreneurship, AI/ML, and creative coding**  
+- 💡 Passionate about **entrepreneurship, AI/ML, and creative coding** 
 
 ---
 
@@ -22,7 +22,7 @@ I’m a **20-year-old developer & student from Finland** who loves turning ideas
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
 **Backend & Tools:** Firebase · Firestore · Stripe API  
 **AI/Automation:** Python · YOLO · Selenium · Raspberry Pi  
-**Creative:** GIMP · Canva · Minecraft modding  
+**Creative:** GIMP · Canva 
 
 ---
 
@@ -31,14 +31,14 @@ I’m a **20-year-old developer & student from Finland** who loves turning ideas
 - 🏢 **Storage Rental Platform** – Next.js + Stripe + interactive SVG floor-plan  
 - 🔒 **Smart Lock Landing Page** – clean, modern product landing  
 - 🧠 **YOLO Projects** – real-time object detection on Raspberry Pi  
-- 🎮 **Minecraft Packs** – CIT textures + Python automation scripts  
+- 🎮 **Gaming Packs** – CIT textures + Python automation scripts  
 
 ---
 
 ## 📫 Connect  
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/sisu-kahilakoski-0226a1369/)  
-- 📧 **Email:** sisu.kahilakoski@gmail.com 
+- 📧 **Email:** sisu.kahilakoski@gmail.com  
 
 ---
 
